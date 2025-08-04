@@ -25,7 +25,7 @@
 
 - **Languages:** Python, JavaScript
 - **Tools & Frameworks:** seleniumbase, Playwright, curl_cffi, selectolax, FastAPI, PyQt6, pandas
-- **Databases:** PostgreSQL
+- **Databases:** PostgreSQL (Beginner)
 - **DevOps & Others:** GitHub Actions, Docker, Git, REST APIs
 
 ---
