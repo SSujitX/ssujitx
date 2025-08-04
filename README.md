@@ -8,5 +8,7 @@
 
 <img align="left" alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ssujitx&show_icons=True"/>
 <img align="right" alt="my lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssujitx&layout=compact"/>
+
 <br/>
-<img align="center" alt="my trophy" src="https://github-profile-trophy.vercel.app/?username=SSujitX&theme=onedark"/>
+
+<center><img align="center" alt="my trophy" src="https://github-profile-trophy.vercel.app/?username=SSujitX&theme=onedark"/></center>
