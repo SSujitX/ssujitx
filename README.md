@@ -1,18 +1,53 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sujit!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sujit!" alt="Typing SVG">
 </h1>
 
-<h3 align="center">A dedicated Python automation expert.</h3>
+<h3 align="center">💻 Python Automation | ⚙️ Web Scraping | 🚀 Script Wizard</h3>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/SSujitX">
+    <img src="https://komarev.com/ghpvc/?username=SSujitX&style=flat-square&color=blue" alt="profile views"/>
+  </a>
+</p>
 
-<img align="left" alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ssujitx&show_icons=True"/>
-<img align="right" alt="my lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssujitx&layout=compact"/>
+---
 
-<br/>
+### 👨‍💻 About Me
 
-<br/>
+- 🔧 I'm a **Python automation specialist** with a passion for building tools, bots, and scrapers.
+- 📦 I turn manual workflows into fully automated pipelines.
+- 🧠 Constantly learning new libraries, APIs, and techniques to speed things up.
+- 🌍 Freelancer on Upwork, solving real-world problems through code.
 
-## 🏆 GitHub Trophies
+---
 
-<img align="center" alt="my trophy" src="https://github-profile-trophy.vercel.app/?username=SSujitX&theme=onedark"/>
+### 🚀 Tech Stack
+
+- **Languages:** Python, JavaScript, Bash
+- **Tools & Frameworks:** Selenium, Playwright, curl_cffi, BeautifulSoup, FastAPI, PyQt6
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **DevOps & Others:** GitHub Actions, Docker, Git, REST APIs
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSujitX&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSujitX&layout=compact&theme=github_dark&hide_border=true" width="45%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SSujitX&theme=onedark&row=1&no-frame=true" />
+</p>
+
+---
+
+### 📫 Get in Touch
+
+- 📨 Email: `your.email@example.com`
+- 🧑‍💼 Upwork: [upwork.com/freelancers/~yourprofile](https://w)
