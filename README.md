@@ -23,9 +23,9 @@
 
 ### 🚀 Tech Stack
 
-- **Languages:** Python, JavaScript, Bash
-- **Tools & Frameworks:** Selenium, Playwright, curl_cffi, BeautifulSoup, FastAPI, PyQt6
-- **Databases:** PostgreSQL, MySQL, SQLite
+- **Languages:** Python, JavaScript
+- **Tools & Frameworks:** seleniumbase, Playwright, curl_cffi, selectolax, FastAPI, PyQt6, pandas
+- **Databases:** PostgreSQL
 - **DevOps & Others:** GitHub Actions, Docker, Git, REST APIs
 
 ---
