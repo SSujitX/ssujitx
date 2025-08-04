@@ -49,5 +49,5 @@
 
 ### 📫 Get in Touch
 
-- 📨 Email: `your.email@example.com`
-- 🧑‍💼 Upwork: [upwork.com/freelancers/~yourprofile](https://w)
+- 📨 Email: `ssujitxx@gmail.com`
+- 🧑‍💼 Upwork: [upwork.com](https://upwork.com/freelancers/sujitx)
