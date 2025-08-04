@@ -50,4 +50,4 @@
 ### 📫 Get in Touch
 
 - 📨 Email: `ssujitxx@gmail.com`
-- 🧑‍💼 Upwork: [upwork.com](https://upwork.com/freelancers/sujitx)
+- 🧑‍💼 Upwork: [Sujit Biswas](https://upwork.com/freelancers/sujitx)
