@@ -11,4 +11,6 @@
 
 <br/>
 
+<br/>
+
 <center><img align="center" alt="my trophy" src="https://github-profile-trophy.vercel.app/?username=SSujitX&theme=onedark"/></center>
