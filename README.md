@@ -8,5 +8,4 @@
 
 <img align="left" alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ssujitx&show_icons=True"/>
 <img align="right" alt="my lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssujitx&layout=compact"/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SSujitX&theme=onedark)](https://github.com/SSujitX/github-profile-trophy)
+<img align="center" alt="my lang" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ssujitx&layout=compact](https://github-profile-trophy.vercel.app/?username=SSujitX&theme=onedark)"/>
