@@ -16,6 +16,7 @@
 
 - 🔧 I'm a **Python automation specialist** with a passion for building tools, bots, and scrapers.
 - 📦 I turn manual workflows into fully automated pipelines.
+- 🌱 I’m currently learning ML libraries
 - 🧠 Constantly learning new libraries, APIs, and techniques to speed things up.
 - 🌍 Freelancer on Upwork, solving real-world problems through code.
 
