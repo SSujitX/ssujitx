@@ -40,14 +40,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SSujitX&theme=onedark&row=1&no-frame=true" />
-</p>
-
----
-
 ### 📫 Get in Touch
 
 - 📨 Email: `ssujitxx@gmail.com`
