@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SSujitX&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSujitX&layout=compact&theme=github_dark&hide_border=true" width="45%" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssujitx" alt="GitHub Streak" /></a>
 </p>
 
 ---
