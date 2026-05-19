@@ -24,8 +24,8 @@
 
 ### 🚀 Tech Stack
 
-- **Languages:** Python, JavaScript
-- **Tools & Frameworks:** seleniumbase, Playwright, curl_cffi, selectolax, FastAPI, PyQt6, pandas
+- **Languages:** Python, JavaScript, TypeScript
+- **Tools & Frameworks:** httpx, sklearn, seleniumbase, Playwright, curl_cffi, selectolax, FastAPI, PyQt6, pandas, numpy, parser, nextjs, react
 - **Databases:** PostgreSQL (Beginner)
 - **DevOps & Others:** GitHub Actions, Docker, Git, REST APIs
 
