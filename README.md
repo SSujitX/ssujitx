@@ -34,10 +34,6 @@
 ### 📊 GitHub Stats
 ![SSujitX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SSujitX&theme=vue-dark&hide_border=true)
 
-<p align="center">
-  ![SSujitX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SSujitX&theme=vue-dark&hide_border=true)
-</p>
-
 ---
 
 ### 📫 Get in Touch
